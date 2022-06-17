@@ -1,0 +1,3 @@
+diagrams based/modified off mikes11's diagrams to match my modified code.  
+both remove venting hardawre, but 1 option is to keep the 4 vent lines (inline before the cyclotron
+the other removes vent lights from the configuration (as is the current code configuration too).
